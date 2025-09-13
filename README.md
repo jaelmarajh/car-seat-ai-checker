@@ -1,1 +1,0 @@
-# car-seat-ai-checker
